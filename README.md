@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # 🤖 Automatize com Precisão: Guia Prático de Automação de Testes com Robot Framework
 
 Ebook gratuito e prático para começar (ou evoluir) em **automação de testes** com **Robot Framework**: instalação, estrutura, exemplos Web/API, execução, relatórios, tags, CI/CD e boas práticas.
